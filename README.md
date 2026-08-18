@@ -31,7 +31,7 @@
 - Synthèse des chiffres clés : permet de simuler la répercussion de plusieurs scénarios d'augmentation de la température (allant de + 0 °C à +3 °C) sur l'activité opérationnelle du SDMIS au sein de la Ville de Lyon. Le tableau de bord présente alors l'impact estimé sur la volumétrie opérationnelle mensuelle et annuelle, ainsi que les principaux indicateurs associés.
 
 
-#### Le graphique interactif est disponible à cette adresse : https://charlottelabeaumont-cmyk.github.io/Prediction-Operationnelle-/
+#### Le graphique interactif est disponible à cette adresse : https://sdmisgeomatique.github.io/Prediction_Operationnelle/
 ---
 
 ## Technologies utilisées
@@ -55,7 +55,7 @@
 ---
 
 ## Documentation
-Ces graphiques sont accompagnés d'un rapport méthodologique détaillant la méthodologie employée pour la réalisation d'analyses bivariées entre variables prédictives et nombre d'interventions ainsi que la préparation du jeu de données "data.json".
+Ces graphiques sont accompagnés d'un rapport méthodologique détaillant la méthode employée pour la réalisation d'analyses bivariées entre variables prédictives et nombre d'interventions ainsi que la préparation du jeu de données "data.json".
 
 [Méthodologie Analyses bivariées et modèle prédictif](Methodologie.pdf)
 
