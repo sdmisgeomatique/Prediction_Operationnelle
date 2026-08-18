@@ -1,6 +1,6 @@
 # Graphiques interactifs de la prédiction opérationnelle du SDMIS en 2026 --- Ville de Lyon 
 
-![Statut](https://img.shields.io/badge/Statut-valide-vert)
+![Statut](https://img.shields.io/badge/Statut-terminé-vert)
 
 ### Technologies
 
